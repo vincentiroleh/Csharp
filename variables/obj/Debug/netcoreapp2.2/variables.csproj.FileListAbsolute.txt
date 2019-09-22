@@ -1,0 +1,11 @@
+/home/iroleh/dev/c#/variables/bin/Debug/netcoreapp2.2/variables.deps.json
+/home/iroleh/dev/c#/variables/bin/Debug/netcoreapp2.2/variables.runtimeconfig.json
+/home/iroleh/dev/c#/variables/bin/Debug/netcoreapp2.2/variables.runtimeconfig.dev.json
+/home/iroleh/dev/c#/variables/bin/Debug/netcoreapp2.2/variables.dll
+/home/iroleh/dev/c#/variables/bin/Debug/netcoreapp2.2/variables.pdb
+/home/iroleh/dev/c#/variables/obj/Debug/netcoreapp2.2/variables.csprojAssemblyReference.cache
+/home/iroleh/dev/c#/variables/obj/Debug/netcoreapp2.2/variables.csproj.CoreCompileInputs.cache
+/home/iroleh/dev/c#/variables/obj/Debug/netcoreapp2.2/variables.AssemblyInfoInputs.cache
+/home/iroleh/dev/c#/variables/obj/Debug/netcoreapp2.2/variables.AssemblyInfo.cs
+/home/iroleh/dev/c#/variables/obj/Debug/netcoreapp2.2/variables.dll
+/home/iroleh/dev/c#/variables/obj/Debug/netcoreapp2.2/variables.pdb
